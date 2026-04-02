@@ -71,11 +71,19 @@ Dados armazenados em banco relacional utilizando JPA, com visualização via H2 
 <img width="512" height="263" alt="h2" src="https://github.com/user-attachments/assets/41e94f01-5d54-4c9b-8384-0c13fd1fabcd" />
 
 ---
-## 🔗 Endpoints
-
 ### Buscar despesas (API externa)
+
+**Método:** GET  
+**Endpoint:** `/despesas`
+
+**Parâmetros:**
+- `ano` (obrigatório)
+- `funcao` (opcional)
+- `pagina` (default = 1)
+
+**Exemplo de requisição:**
 ```http
-GET /despesas?ano=2023&funcao=12&pagina=1
+GET http://localhost:8080/despesas?ano=2023&funcao=12&pagina=1
 
 
 
