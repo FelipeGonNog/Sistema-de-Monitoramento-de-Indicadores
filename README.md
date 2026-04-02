@@ -6,7 +6,7 @@ API desenvolvida em Spring Boot para monitoramento de indicadores a partir de da
 ---
 
 ## 🚀 Objetivo
-Consumir dados de despesas governamentais, tratá-los e disponibilizá-los via endpoints REST, permitindo análise e persistência em banco relacional.
+**Consumir dados de despesas governamentais, tratá-los e disponibilizá-los via endpoints REST, permitindo análise e persistência em banco relacional.**
 
 ---
 ## 🛠 Tecnologias utilizadas
