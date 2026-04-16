@@ -10,7 +10,6 @@ API desenvolvida em Spring Boot para monitoramento de indicadores a partir de da
 
 ---
 ## 🛠 Tecnologias utilizadas
-
 - Java 17  
 - Spring Boot  
 - Spring Web MVC  
