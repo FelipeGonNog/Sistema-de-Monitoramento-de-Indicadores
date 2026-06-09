@@ -84,6 +84,3 @@ Dados armazenados em banco relacional utilizando JPA, com visualização via H2 
 ```http
 GET http://localhost:8080/despesas?ano=2023&funcao=12&pagina=1
 
-
-
-
